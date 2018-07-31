@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<characters>
+<playerCharacter>
+
+<name>Scavenger</name>
+
+<inventory />
+
+<equipped>
+<clothesTorso>basicShirt</clothesTorso>
+<clothesLegs>basicLegs</clothesLegs>
+<armwear />
+<headgear />
+<footwear>basicShoes</footwear>
+<armourTorso />
+<armourLegs />
+<armourLegs />
+<accessories />
+<weaponLeft />
+<weaponRight />
+<weaponBoth />
+</equipped>
+
+<currentRoom />
+
+<doing />
+
+</playerCharacter>
+
+</characters>

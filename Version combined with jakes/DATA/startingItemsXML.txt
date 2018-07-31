@@ -1,0 +1,80 @@
+<item name=basicShirt>
+<bDesc>A basic synth-cloth shirt</bDesc>
+<iDesc>There's a small rip in the armpit...</iDesc>
+
+<equippable>
+<canEquip>True</canEquip>
+<equipSlot>clothesTorso</equipSlot>
+</equippable>
+
+<expendable>
+<expends>False</expends>
+<noOfUses />
+</expendable>
+
+<droppable>True</droppable>
+<canBlock>False</canBlock>
+<doing>
+<isDoing> False </isDoing>
+<doingVerb />
+</doing>
+
+<taken>
+<takenBy>No-one</takenBy>
+<takeText>You pick up the</takeText>
+
+</item>
+
+<item name=basicLegs>
+<bDesc>Some basic synth-cloth legwear</bDesc>
+<iDesc>This could probably do with being washed.</iDesc>
+
+<equippable>
+<canEquip>True</canEquip>
+<equipSlot>clothesLegs</equipSlot>
+</equippable>
+
+<expendable>
+<expends>False</expends>
+<expendsIn />
+</expendable>
+
+<droppable>True</droppable>
+<canBlock>False</canBlock>
+<doing>
+<isDoing> False </isDoing>
+<doingVerb />
+</doing>
+
+<taken>
+<takenBy>No-one</takenBy>
+<takeText>You pick up the</takeText>
+
+</item>
+
+<item name=basicShoes>
+<bDesc>A pair of basic synthetic fabric and rubber shoes</bDesc>
+<iDesc>You can feel a hole in your sock. Ugh.</iDesc>
+
+<equippable>
+<canEquip>True</canEquip>
+<equipSlot>clothesLegs</equipSlot>
+</equippable>
+
+<expendable>
+<expends>False</expends>
+<expendsIn />
+</expendable>
+
+<droppable>True</droppable>
+<canBlock>False</canBlock>
+<doing>
+<isDoing> False </isDoing>
+<doingVerb />
+</doing>
+
+<taken>
+<takenBy>No-one</takenBy>
+<takeText>You pick up the</takeText>
+
+</item>

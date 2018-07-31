@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<data>
+<NPC name="C001">
+<ID>C001</ID>
+
+<currentRoom>R2</currentRoom>
+
+<name>Security Droid</name>
+
+<basicDesc>A beat-up old security droid</basicDesc>
+
+<inspectDesc>a security droid covered in evidence of previous repairs, making it seem seasoned, if a little rusty</inspectDesc>
+<hostile>False</hostile>
+
+<talk>None</talk>
+
+<interest>None</interest>
+
+<inventory></inventory>
+
+<equipped>
+<clothesTorso></clothesTorso>
+<clothesLegs></clothesLegs>
+<armwear />
+<headgear />
+<footwear></footwear>
+<armourTorso />
+<armourLegs />
+<armourLegs />
+<accessories />
+<weaponLeft />
+<weaponRight />
+<weaponBoth />
+</equipped>
+
+<action />
+
+<doing>
+<isDoing>False</isDoing>
+<doingVerb />
+</doing>
+
+<hidden>False</hidden>
+</NPC>
+</data>
