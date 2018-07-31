@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<furnishingData>
+<furnishing name="chestOfDrawers">
+<name>chest of drawers</name>
+<basicDesc>a chest of drawers</basicDesc>
+<inspectDesc>a weathered wooden chest of 4 drawers.</inspectDesc>
+<interactive>
+<interactBool>False</interactBool>
+<interactVerb />
+</interactive>
+<containedObjects />
+
+<opened>
+<canBeOpened>True</canBeOpened>
+<isOpen>False</isOpen>
+</opened>
+
+<locked>
+<isLocked>False</isLocked>
+<unlockTools>
+<tool>smash</tool>
+</unlockTools>
+</locked>
+
+<blocked>
+<isBeingBlocked>False</isBeingBlocked>
+<blockedBy />
+</blocked>
+
+<blocking>
+<isBlocking>False</isBlocking>
+<blockedObj />
+<obscures>False</obscures>
+</blocking>
+
+<hidden>False</hidden>
+</furnishing>
+</furnishingData>

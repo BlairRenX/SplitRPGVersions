@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doorData>
+<location name="miningPlatform01">
+<door name="DR1R2">
+	<room1>R1</room1>
+	<room2>R2</room2>
+	<direction>0</direction>
+	<locked>
+		<arg1>False</arg1>
+		<arg2 />
+		<arg3></arg3>
+	</locked>
+	<blocked>
+		<isBlocked>False</isBlocked>
+		<unblockTool />
+	</blocked>
+	<opened>False</opened>
+	<seeThrough>False</seeThrough>
+	<description>A basic, nondescript door. It looks quite old.</description>
+	<hidden>False</hidden>
+</door>
+</location>
+</doorData>
+
+
+	
+	

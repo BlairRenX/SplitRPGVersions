@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<data>
+<location name="miningPlatform01">
+<room name="R1">
+	<quality>3</quality>
+	<furnishings></furnishings>
+	<objects>
+	<object>small rock</object>
+	</objects>
+	<characters></characters>
+	<search> An empty room </search>
+	<investigation> nothing of note here visually </investigation>
+	<doors>
+	<door name="DR1R2"> </door>
+	</doors>
+</room>
+
+<room name="R2">
+	<quality>5</quality>
+	<furnishings>
+	<furnishing>chestOfDrawers</furnishing>
+	</furnishings>
+	<objects></objects>
+	<characters></characters>
+	<search>A lavish room</search>
+	<investigation>A gorgeous bedroom</investigation>
+	<doors> 
+	<door name="DR1R2"> </door>
+	</doors>
+</room>
+</location>
+</data>

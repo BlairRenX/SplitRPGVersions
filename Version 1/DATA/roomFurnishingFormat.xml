@@ -1,0 +1,31 @@
+<? xml version="1.0"?>
+<furnishingData>
+<furnishing>
+<name />
+<basicDesc />
+<inspectDesc />
+<hidden />
+<interactive>
+<interactBool> False </interactBool>
+<interactVerb />
+</interactive>
+<containedObjects />
+
+<opened>
+<canBeOpened />
+<isOpen />
+</opened>
+
+<locked>
+<isLocked> False </isLocked>
+<unlockTool />
+</locked>
+
+<blocked>
+</blocked>
+
+<blocking>
+</blocking>
+
+</furnishing>
+</furnishingData>

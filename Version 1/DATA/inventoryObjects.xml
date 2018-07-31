@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<itemList>
+<item id="smallRock" name="small rock">
+<bDesc>a small rock</bDesc>
+<iDesc>It has a comforting heft</iDesc>
+
+<unlocks>
+<ifUnlocks>False</ifUnlocks>
+<lockCode />
+</unlocks>
+
+<expendable>
+<expends>False</expends>
+<noOfUses />
+</expendable>
+
+<droppable>True</droppable>
+
+<equippable>
+<canEquip>True</canEquip>
+<equipSlot>
+<equip>weaponLeft</equip>
+<equip>weaponRight</equip>
+</equipSlot>
+</equippable>
+
+<canBlock>False</canBlock>
+
+<doing>
+<isDoing>False</isDoing>
+<doingVerb />
+</doing>
+
+<taken>
+<takenBy>No-one</takenBy>
+<takeText>You pick up the</takeText>
+</taken>
+
+</item>
+
+
+</itemList>
